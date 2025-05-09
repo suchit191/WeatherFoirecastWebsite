@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    background-image: linear-gradient(-90deg, #ffffff);
+    color: #000000;
+    text-shadow: 1px 1px 2px rgb(98, 95, 95);
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.forecast {
+    font-size: 0.9em;
+}
+
+span {
+    font-size: 1em;
+}
+
+li:hover {
+    background-color: #ffffff;
+    text-decoration: underline;
+}
